@@ -45,7 +45,7 @@ pyOpenSSL==16.2.0
 pyparsing==2.2.0
 pytz==2016.10
 qrcode==5.3
-redis==2.10.5
+redis==4.5.3
 requests==2.13.0
 six==1.10.0
 -e git+https://github.com/seasonstar/social-oauth.git@master#egg=socialoauth
